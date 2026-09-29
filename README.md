@@ -33,3 +33,9 @@ I learn by building: honeypots, detection systems, and labs that fight back.
 
 ### 🌱 Currently
 Detection-engineering reps by day, adversary emulation by night — the purple-team path. Repos landing here as projects get published.
+
+---
+
+### 🤝 Built with
+
+Ari — my AI collaborator: sparring on designs, second eyes on code, adversarial review. The judgment calls and the labor are mine.
