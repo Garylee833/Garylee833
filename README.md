@@ -25,9 +25,9 @@ I learn by building: honeypots, detection systems, and labs that fight back.
 - **Honeytokens** — fake-secret tripwires with access-time detection
 
 ## 📜 Certifications
-- TryHackMe — Cybersecurity
-- Google Cybersecurity Professional Certificate
-- Cisco Cybersecurity Fundamentals
+- TryHackMe path certificates — Security Engineer · DevSecOps · AI Security · Cyber Security 101 · Pre Security
+- Google Cybersecurity Professional Certificate (Coursera)
+- Cisco NetAcad — Networking Basics · Introduction to Cybersecurity · Getting Started with Cisco Packet Tracer
 
 ---
 
